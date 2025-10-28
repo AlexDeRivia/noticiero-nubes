@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $portada = [
-"titulo" => "Portada",
-"autor" => "jperez",
-"resumen" => "Las noticias mas importantes del 2025",
+"titulo" => "14 muertos en varios ataques de EEUU contra tres supuestas narcolanchas en el Caribe",
+"autor" => "Agencias (vía LA RAZÓN)",
+"resumen" => "Varios ataques de aeronaves estadounidenses contra lanchas rápidas en el Caribe resultan en 14 muertes, en una intensificación de las operaciones antinarcóticos.",
 ];
 ?>
