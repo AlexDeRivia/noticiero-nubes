@@ -7,7 +7,7 @@
     <meta name="author" content="Alex Alcantara Zuñoga">
     <link rel="icon" href="https://placehold.co/32x32/C70000/FFFFFF?text=AA">
 
-    <title>Noticias 2025 - Alex Alcantara Zuñoga</title>
+    <title>Noticias 2025 - Alex Alcantara Zuñiga</title>
 
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
                 <!-- Logo -->
                 <div class="flex-shrink-0 flex items-center">
                     <a href="#" class="text-3xl font-extrabold text-brand-red">
-                        AAZ
+                        Alex Alcantara Zuñiga
                     </a>
                     <a href="#" class="hidden sm:block ml-3 text-2xl font-bold text-zinc-800">
                         Noticias
@@ -438,3 +438,4 @@
 
 </body>
 </html>
+
